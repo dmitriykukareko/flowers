@@ -46,17 +46,17 @@ $(document).ready(function () {
 
   $.fancybox.open([
     {
-      src  : '../img/bouquet/big_1.jpg',
+      src  : 'img/bouquet/big_1.jpg',
       opts : {
         caption : 'First caption',
-        thumb   : '../img/bouquet/small_1.jpg'
+        thumb   : 'img/bouquet/small_1.jpg'
       }
     },
     {
-      src  : '../img/bouquet/big_2.jpg',
+      src  : 'img/bouquet/big_2.jpg',
       opts : {
         caption : 'Second caption',
-        thumb   : '../img/bouquet/small_2.jpg'
+        thumb   : 'img/bouquet/small_2.jpg'
       }
     }
   ], {
